@@ -1,2 +1,2 @@
-# portfolio
-this repo is basically all my codes of my portfolio website.
+# Portfolio-1
+My portfolio website
